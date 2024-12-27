@@ -1,0 +1,5 @@
+-r base.txt
+
+drf-yasg==1.21.7
+openapi==2.0.0
+PyYAML==6.0.2
